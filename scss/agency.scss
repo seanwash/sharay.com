@@ -229,8 +229,10 @@ header {
 	}
 }
 @media(max-width: 320px) {
-	header .intro-heading {
-		font-size: 45px; 
+	header {
+		.intro-heading {
+		font-size: 45px;
+		}
 	}
 }
 
