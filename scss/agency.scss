@@ -228,6 +228,11 @@ header {
 		}
 	}
 }
+@media(max-width: 320px) {
+	header .intro-text {
+		font-size: 45px; 
+	}
+}
 
 // Global Section Styles
 
